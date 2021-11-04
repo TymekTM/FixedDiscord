@@ -17,7 +17,7 @@
 
 /*Hides the server's channel list*/
 
-.sidebar-2K8pFh {
+.content-3YMskv {
     -webkit-backface-visibility: hidden;
     -webkit-perspective: 1000;
     -webkit-transform: translate3d(0,0,0);
@@ -30,7 +30,7 @@
     transition: width var(--transition-speed) ease-in;
     will-change: width;
 }
-.bd-minimal .sidebar-2K8pFh { /*Minimal mode channels*/
+.bd-minimal .content-3YMskv { /*Minimal mode channels*/
     -webkit-backface-visibility: hidden;
     -webkit-perspective: 1000;
     -webkit-transform: translate3d(0,0,0);
